@@ -1,0 +1,3 @@
+D:/secondtask/cmake-build-debug/CMakeFiles/secondtask.dir
+D:/secondtask/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/secondtask/cmake-build-debug/CMakeFiles/rebuild_cache.dir
